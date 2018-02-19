@@ -90,13 +90,16 @@ Bad Experience:
 
 #### #
 
-** 3D model ** 	A 3D design typically produced on a CAD program.
+**3D model** 	A 3D design typically produced on a CAD program.
 
-** 3D modelling **	The act of using 3D CAD programs to produce a design.
 
-** 3D printer **	An additive manufacturing machine that constructs a solid shape by building one layer at a time.
+**3D modelling**	The act of using 3D CAD programs to produce a design.
 
-** 3D printing **	The act of using an additive manufacturing machine (3D printer) to produce a solid object one layer at a time (also known as additive manufacturing).
+
+**3D printer**	An additive manufacturing machine that constructs a solid shape by building one layer at a time.
+
+
+**3D printing**	The act of using an additive manufacturing machine (3D printer) to produce a solid object one layer at a time (also known as additive manufacturing).
 
 ** 3D scan ** 	A process that captures the geometry of a real-world object and uses that data to produce a 3D model.
 #### A
