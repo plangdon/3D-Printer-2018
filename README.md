@@ -11,6 +11,7 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 
 * Repeiter (Win/Mac/Linux) - [https://www.repetier.com](https://www.repetier.com)
+    * [Repeiter Tutorial](Files/Tutorial_Repetier-Host.pdf)
 * Sli3er (Win/Mac) - [sli3er](sli3er)
 
 
@@ -27,6 +28,8 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 Prusa i3 is an open source design 3D printer. Information about the project can be found [here](http://reprap.org/wiki/Prusa_i3).
 
+[Orginal Prusa i3 Build Guide](/Files/prusa_i3_buid_manual_v1.0.pdf)
+
 * **Nozzle temperature:**	170-275℃
 * **Heatbed temperature:**	0-110℃
 * **Structure:**	Acrylic
@@ -41,14 +44,37 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 ![TronxyP802d.jpeg](/Files/TronxyP802d-5.jpeg)
 ![TronxyP802d.jpeg](/Files/TronxyP802d-4.jpeg)
 
+### Mainboard
+[Melzi](http://reprap.org/wiki/Melzi) is the main board of the TRONXY P8902D.
+
+### _Firmware - (Advanced or Future Use)_
+
+* [Active Marlin Tronxy Source](https://github.com/erikkallen/Marlin_tronxy)
+
+* [P802M_8_Repetier_V1.5.zip](/Files/P802M_8_Repetier_V1.5.zip)
+
+* [P802MA_8_MarlinV1_Melzi_ADCKey.zip - for auto level upgrade](/Files/P802MA_8_MarlinV1_Melzi_ADCKey.zip)
+
+* [Firmware update instructions](/Files/Update_firmware.pdf)
 
 
 #### Assembly
-Assembly video: [youtube](https://www.youtube.com/watch?v=b94YbwMqOKI)
+
+#### Manual
+* [P802ma_installation_guide_V.07.pdf](/Files/P802ma_installation_guide_V.07.pdf)
+
+#### Videos
+* Main Assembly video: [youtube](https://www.youtube.com/watch?v=b94YbwMqOKI)
+
+* Additional Helper Videos - TRONXY [youtube channel](https://www.youtube.com/channel/UCMuP7Gc41bDmfNx5zhTAAHw/videos})
+
 
 #### Tuning/Calibration
+
 ##### Bed Leveling
+* [TRONXY Supplied PDF](/Files/P802_Level_instruction.pdf)
 * [6 Simple Steps to 3D Printer Bed Leveling](https://pinshape.com/blog/6-simple-steps-to-3d-printer-bed-leveling/)
+
 ##### Calibration
 * [HowTo Calibrate, Tune and Fine Tune your printer and filament & When](https://www.3dhubs.com/talk/thread/howto-calibrate-tune-and-fine-tune-your-printer-and-filament)
 * [Advanced - Triffid Hunter's Calibration Guide](http://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide)
