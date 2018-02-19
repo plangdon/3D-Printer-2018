@@ -45,7 +45,10 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 ![TronxyP802d.jpeg](/Files/TronxyP802d-4.jpeg)
 
 ### Mainboard
-[Melzi](http://reprap.org/wiki/Melzi) is the main board of the TRONXY P8902D.
+[Melzi v2](http://reprap.org/wiki/Melzi) is the main board of the TRONXY P8902D.
+![Melzi v2](http://i00.i.aliimg.com/wsphoto/v0/2038875198_1/RepRap-Melzi-v2-0-3D-Printer-Controller-Board-1284P-A4988.jpg)
+![Wiring](/Files/wiring_diagram.png)
+
 
 ### _Firmware - (Advanced or Future Use)_
 
@@ -100,13 +103,16 @@ Here are some brands I've had luck with and a some not so much:
 * NinjaFlex - Premium Rubber/Flexible print material $$$
 
 
-
 Bad Experience:
 * Gizmo Dorks - Had a tough time getting good prints, inconsistent width.
+
+#### Additional Reading
+* [The Best 3D Printing Filaments of 2017](http://3dinsider.com/3d-printing-filaments/)
 
 
 ## Further Information, Enhancements & Interesting Projects
 
+* [TRONXY Facebook Group](https://www.facebook.com/groups/Tronxy/)
 * OctoPrint - Run a print server on RaspPi - [https://octoprint.org](https://octoprint.org)
 * ANet portal for their i3 clone - [https://3dprint.wiki/reprap/anet/a8](https://3dprint.wiki/reprap/anet/a8.)
 
