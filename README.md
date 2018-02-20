@@ -39,7 +39,6 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 * **Power Supply:**	110V/220V 20A
 * **Print Size:**	220 x 220 x 180mm(Max)
 
-
 ![TronxyP802d.jpeg](/Files/TronxyP802d.jpeg)
 ![TronxyP802d.jpeg](/Files/TronxyP802d-1.jpeg)
 ![TronxyP802d.jpeg](/Files/TronxyP802d-2.jpeg)
@@ -60,7 +59,6 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 * [CH340G USB Drive](/Files/CH340G_windows.zip)
 * [FTDI USB Driver](/Files/FTDI_USB_Driver.zip)
 
-
 ### _Firmware - (Advanced or Future Use)_
 
 * [Active Marlin Tronxy Source](https://github.com/erikkallen/Marlin_tronxy)
@@ -72,9 +70,8 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 * [Firmware update instructions](/Files/Update_firmware.pdf)
 
 
-#### Assembly
-
-#### Manual
+### Assembly
+#### Manuals
 * [Vendor Instructions](/Files/TRONXY_X6D_installation_guideV.01.pdf)
 * [A more detailed slightly different model](/Files/P802ma_installation_guide_V.07.pdf)
 
