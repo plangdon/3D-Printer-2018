@@ -5,30 +5,30 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 | Table of Contents |
 |--|
-|1. [Software](#) |
-|1.1 For Running your Printer |
-|1.2 Offline Printing |
-|1.3 Source for 3D Files to Print |
-|1.4  CAD and Design tools |
-|2. Hardware |
-|2.1 Machine Specs |
-|2.2 Mainboard |
-|2.3 Drivers (for Melzi) |
-|2.4 Firmware |
-|3. Assembly |
-|3.1 Manuals |
-|3.2 Videos |
-|3.3 Tuning/Calibration |
-|3.4 Troubleshooting |
-|4. Filament |
-|4.1 Filament Sources |
-|4.2 Filament Brands |
-|4.3 Filament Additional Reading |
-|5. Further Information, Enhancements... |
-|5.1 Resources and Groups |
-|5.2 Print Servers |
-|5.3 Misc |
-|Glossary |
+|1. [Software](#1-software) |
+|1.1 [For Running your Printer](#11-for-running-your-printer) |
+|1.2 [Offline Printing](#12-offline-printing) |
+|1.3 [Source for 3D Files to Print](#13-source-for-3d-files-to-print) |
+|1.4  [CAD and Design tools](#14-cad-and-design-tools-for-designing-things-to-print) |
+|2. [Hardware](#2-hardware) |
+|2.1 [Machine Specs](#21-machine-specific-info-to-tronxy-p802dx6-model) |
+|2.2 [Mainboard](#22-mainboard) |
+|2.3 [Drivers (for Melzi)](#23-drivers-for-melzi) |
+|2.4 [Firmware](#24-firmware---advanced-or-future-use) |
+|3. [Assembly](#3-assembly) |
+|3.1 [Manuals](#31-manuals) |
+|3.2 [Videos](#32-videos) |
+|3.3 [Tuning/Calibration](#33-tuningcalibration) |
+|3.4 [Troubleshooting](#34-troubleshooting) |
+|4. [Filament](#4-filament) |
+|4.1 [Filament Sources](#41-filament-sources) |
+|4.2 [Filament Brands](#42--brands) |
+|4.3 [Filament Additional Reading](#43-additional-reading) |
+|5. [Further Information, Enhancements...](#5-further-information-enhancements--interesting-projects) |
+|5.1 [Resources and Groups](#51-resources-and-groups) |
+|5.2 [Print Servers](#52-print-servers) |
+|5.3 [Misc](#53-misc) |
+|[Glossary](#glossary) |
 
 
 
