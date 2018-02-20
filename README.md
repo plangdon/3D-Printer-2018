@@ -3,9 +3,39 @@
 Resources for building, maintaining and using your Prusa i3 clone.
 
 
-## Software
+| Table of Contents |
+|--|
+|1. [Software](#) |
+|1.1 For Running your Printer |
+|1.2 Offline Printing |
+|1.3 Source for 3D Files to Print |
+|1.4  CAD and Design tools |
+|2. Hardware |
+|2.1 Machine Specs |
+|2.2 Mainboard |
+|2.3 Drivers (for Melzi) |
+|2.4 Firmware |
+|3. Assembly |
+|3.1 Manuals |
+|3.2 Videos |
+|3.3 Tuning/Calibration |
+|3.4 Troubleshooting |
+|4. Filament |
+|4.1 Filament Sources |
+|4.2 Filament Brands |
+|4.3 Filament Additional Reading |
+|5. Further Information, Enhancements... |
+|5.1 Resources and Groups |
+|5.2 Print Servers |
+|5.3 Misc |
+|Glossary |
 
-#### Slicing and Printing Guides
+
+
+
+## 1. Software
+
+### 1.1 For Running your Printer
 * Cura (Win/Mac) - [Get v.15.x](https://ultimaker.com/en/products/cura-software/list)
   * [Cura Setup Guide](/Configurations/Cura-SetupGuide.md)
 * Repetier (Win/Mac/Linux) - [Download](https://www.repetier.com)
@@ -13,12 +43,13 @@ Resources for building, maintaining and using your Prusa i3 clone.
   * [Repetier Tutorial](Files/Tutorial_Repetier-Host.pdf)
 * Slic3r (Win/Mac) - [slic3r](http://www.slic3r.org)
 
-
-#### Offline Printing
+#### 1.2 Offline Printing
 * [How to print from SD Card](Files/How_to_off-line print.pdf)
 
+#### 1.3 Source for 3D Files to Print
+* [Thingiverse](http://www.thingiverse.com)
 
-#### CAD and Design
+#### 1.4 CAD and Design tools for designing things to print
 ##### Online tools
 * [TinkerCad](http://www.tinkercad.com) - Free & easy
 * AutoCAD Fusion 360 - [Free Trial](https://www.autodesk.com/products/fusion-360/overview)
@@ -27,12 +58,13 @@ Resources for building, maintaining and using your Prusa i3 clone.
 * Sketchup - [https://www.sketchup.com/](https://www.sketchup.com/)
 
 
-## Hardware
+## 2. Hardware
 
 Prusa i3 is an open source design 3D printer. Information about the project can be found [here](http://reprap.org/wiki/Prusa_i3).
 
 [Orginal Prusa i3 Build Guide](/Files/prusa_i3_buid_manual_v1.0.pdf)
 
+### 2.1 Machine Specific info to TRONXY P802D/X6 Model
 * **Nozzle temperature:**	170-275℃
 * **Heatbed temperature:**	0-110℃
 * **Structure:**	Acrylic
@@ -46,12 +78,12 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 ![TronxyP802d.jpeg](/Files/TronxyP802d-5.jpeg)
 ![TronxyP802d.jpeg](/Files/TronxyP802d-4.jpeg)
 
-### Mainboard
+### 2.2 Mainboard
 [Melzi v2](http://reprap.org/wiki/Melzi) is the main board of the TRONXY P8902D.
 ![Melzi v2](http://i00.i.aliimg.com/wsphoto/v0/2038875198_1/RepRap-Melzi-v2-0-3D-Printer-Controller-Board-1284P-A4988.jpg)
 ![Wiring](/Files/wiring_diagram.png)
 
-### Drivers (for Melzi)
+### 2.3 Drivers (for Melzi)
 #### Mac/OSX
 * [CH340G USB Drive](/Files/CH341SER_MAC.ZIP)
 
@@ -59,7 +91,7 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 * [CH340G USB Drive](/Files/CH340G_windows.zip)
 * [FTDI USB Driver](/Files/FTDI_USB_Driver.zip)
 
-### _Firmware - (Advanced or Future Use)_
+### 2.4 _Firmware - (Advanced or Future Use)_
 
 * [Active Marlin Tronxy Source](https://github.com/erikkallen/Marlin_tronxy)
 
@@ -70,18 +102,19 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 * [Firmware update instructions](/Files/Update_firmware.pdf)
 
 
-### Assembly
-#### Manuals
+## 3. Assembly
+
+### 3.1 Manuals
 * [Vendor Instructions](/Files/TRONXY_X6D_installation_guideV.01.pdf)
 * [A more detailed slightly different model](/Files/P802ma_installation_guide_V.07.pdf)
 
-#### Videos
+### 3.2 Videos
 * Main Assembly video: [youtube](https://www.youtube.com/watch?v=b94YbwMqOKI)
 
 * Additional Helper Videos - TRONXY [youtube channel](https://www.youtube.com/channel/UCMuP7Gc41bDmfNx5zhTAAHw/videos})
 
 
-#### Tuning/Calibration
+### 3.3 Tuning/Calibration
 
 ##### Bed Leveling
 * [TRONXY Supplied PDF](/Files/P802_Level_instruction.pdf)
@@ -91,19 +124,19 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 * [HowTo Calibrate, Tune and Fine Tune your printer and filament & When](https://www.3dhubs.com/talk/thread/howto-calibrate-tune-and-fine-tune-your-printer-and-filament)
 * [Advanced - Triffid Hunter's Calibration Guide](http://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide)
 
-#### Troubleshooting
+### 3.4 Troubleshooting
 * [Illustrated Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
 * [Common 3d Printing Problems Troubleshooting](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/)
 
-## Filament
+## 4. Filament
 Your printer can support most filaments that can require temperatures in the 170-275℃ range.
 
 ![Filament Chart](/Files/filament.png)
 
-### Filament Sources
+### 4.1 Filament Sources
 * Amazon - Good prices and resonable shipping
 
-### Brands
+### 4.2  Brands
 Amazon reviews are a good indicator of what is working and what may be no good.
 Here are some brands I've had luck with and a some not so much:
 * Hatchbox - Premium brand +$22 per 2kg roll [Amazon Store](https://www.amazon.com/HATCHBOX/b/ref=bl_dp_s_web_14181177011?ie=UTF8&node=14181177011&field-lbr_brands_browse-bin=HATCHBOX)
@@ -111,18 +144,23 @@ Here are some brands I've had luck with and a some not so much:
 * Melca - [Amazon Store](https://www.amazon.com/Melca/b/ref=bl_dp_s_web_12667907011?ie=UTF8&node=12667907011&field-lbr_brands_browse-bin=Melca)
 * NinjaFlex - Premium Rubber/Flexible print material $$$
 
-
-Bad Experience:
+**Bad Experience:**
 * Gizmo Dorks - Had a tough time getting good prints, inconsistent width.
 
-#### Additional Reading
+### 4.3 Additional Reading
 * [The Best 3D Printing Filaments of 2017](http://3dinsider.com/3d-printing-filaments/)
 
 
-## Further Information, Enhancements & Interesting Projects
+## 5. Further Information, Enhancements & Interesting Projects
 
+### 5.1 Resources and Groups
 * [TRONXY Facebook Group](https://www.facebook.com/groups/Tronxy/)
+
+
+### 5.2 Print Servers
 * OctoPrint - Run a print server on RaspPi - [https://octoprint.org](https://octoprint.org)
+
+### 5.3 Misc
 * ANet portal for their i3 clone - [https://3dprint.wiki/reprap/anet/a8](https://3dprint.wiki/reprap/anet/a8.)
 
 
