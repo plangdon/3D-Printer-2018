@@ -7,11 +7,11 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 #### Slicing and Printing Guides
 * Cura (Win/Mac) - [Get v.15.x](https://ultimaker.com/en/products/cura-software/list)
- * [Cura Setup Guide](/Configurations/Cura-SetupGuide.md)
-* Repeiter (Win/Mac/Linux) - [Download](https://www.repetier.com)
-  * [Repeiter Config Guide](/Files/how_to_slice.pdf)
-  * [Repeiter Tutorial](Files/Tutorial_Repetier-Host.pdf)
-* Sli3er (Win/Mac) - [sli3er](http://www/sli3er.org)
+  * [Cura Setup Guide](/Configurations/Cura-SetupGuide.md)
+* Repetier (Win/Mac/Linux) - [Download](https://www.repetier.com)
+  * [Repetier Config Guide](/Files/how_to_slice.pdf)
+  * [Repetier Tutorial](Files/Tutorial_Repetier-Host.pdf)
+* Slic3r (Win/Mac) - [slic3r](http://www.slic3r.org)
 
 
 #### Offline Printing
