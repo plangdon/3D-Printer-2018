@@ -5,14 +5,17 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 ## Software
 
-#### Slicing and Printing
+#### Slicing and Printing Guides
 * Cura (Win/Mac) - [Get v.15.x](https://ultimaker.com/en/products/cura-software/list)
  * [Cura Setup Guide](/Configurations/Cura-SetupGuide.md)
+* Repeiter (Win/Mac/Linux) - [Download](https://www.repetier.com)
+  * [Repeiter Config Guide](/Files/how_to_slice.pdf)
+  * [Repeiter Tutorial](Files/Tutorial_Repetier-Host.pdf)
+* Sli3er (Win/Mac) - [sli3er](http://www/sli3er.org)
 
 
-* Repeiter (Win/Mac/Linux) - [https://www.repetier.com](https://www.repetier.com)
-    * [Repeiter Tutorial](Files/Tutorial_Repetier-Host.pdf)
-* Sli3er (Win/Mac) - [sli3er](sli3er)
+#### Offline Printing
+* [How to print from SD Card](Files/How_to_off-line print.pdf)
 
 
 #### CAD and Design
@@ -72,7 +75,8 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 #### Assembly
 
 #### Manual
-* [P802ma_installation_guide_V.07.pdf](/Files/P802ma_installation_guide_V.07.pdf)
+* [Vendor Instructions](/Files/TRONXY_X6D_installation_guideV.01.pdf)
+* [A more detailed slightly different model](/Files/P802ma_installation_guide_V.07.pdf)
 
 #### Videos
 * Main Assembly video: [youtube](https://www.youtube.com/watch?v=b94YbwMqOKI)
