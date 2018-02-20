@@ -49,6 +49,14 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 ![Melzi v2](http://i00.i.aliimg.com/wsphoto/v0/2038875198_1/RepRap-Melzi-v2-0-3D-Printer-Controller-Board-1284P-A4988.jpg)
 ![Wiring](/Files/wiring_diagram.png)
 
+### Drivers (for Melzi)
+#### Mac/OSX
+* [CH340G USB Drive](/Files/CH341SER_MAC.ZIP)
+
+#### Windows
+* [CH340G USB Drive](/Files/CH340G_windows.zip)
+* [FTDI USB Driver](/Files/FTDI_USB_Driver.zip)
+
 
 ### _Firmware - (Advanced or Future Use)_
 
