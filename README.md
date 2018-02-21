@@ -1,3 +1,4 @@
+
 # 2018 - 3D Printer Information
 
 Resources for building, maintaining and using your Prusa i3 clone.
@@ -27,8 +28,10 @@ Resources for building, maintaining and using your Prusa i3 clone.
 |5. [Further Information, Enhancements...](#5-further-information-enhancements--interesting-projects) |
 |5.1 [Resources and Groups](#51-resources-and-groups) |
 |5.2 [Print Servers](#52-print-servers) |
-|5.3 [Misc](#53-misc) |
+|5.3 [Enhancements](#53-enhancements) |
+|5.4 [Misc](#54-misc) |
 |[Glossary](#glossary) |
+|[Appendix](#appendix) |
 
 
 
@@ -36,8 +39,9 @@ Resources for building, maintaining and using your Prusa i3 clone.
 ## 1. Software
 
 ### 1.1 For Running your Printer
+The following are a good place to start for beginners but by no means the complete list. There is a reference list [here](#appendix).
 * Cura (Win/Mac) - [Get v.15.x](https://ultimaker.com/en/products/cura-software/list)
-  * [Cura Setup Guide](/Configurations/Cura-SetupGuide.md)
+  * [Cura Setup Guide](/Configurations/Cura/Cura-SetupGuide.md)
 * Repetier (Win/Mac/Linux) - [Download](https://www.repetier.com)
   * [Repetier Config Guide](/Files/how_to_slice.pdf)
   * [Repetier Tutorial](Files/Tutorial_Repetier-Host.pdf)
@@ -48,6 +52,7 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 #### 1.3 Source for 3D Files to Print
 * [Thingiverse](http://www.thingiverse.com)
+* [Yeggi](http://www.yeggi.com/)
 
 #### 1.4 CAD and Design tools for designing things to print
 ##### Online tools
@@ -158,9 +163,23 @@ Here are some brands I've had luck with and a some not so much:
 
 
 ### 5.2 Print Servers
-* OctoPrint - Run a print server on RaspPi - [https://octoprint.org](https://octoprint.org)
+* [OctoPrint](https://octoprint.org) - Run a print server on RaspPi
+* [AstroPrint](https://www.astroprint.com/)
+* [CNCjs](https://github.com/cncjs/cncjs) - G-Code runner in a browser
+* [Repetier-Server](https://www.repetier-server.com/)
 
-### 5.3 Misc
+Article: [Choosing Which 3D Printing Software to Use: OctoPrint or AstroPrint?](https://blog.astroprint.com/octoprint_vs_astroprint/)
+### 5.3 Enhancements
+One of the first things many new 3D printer owners do is print enhancements to their newly built printer.
+
+Here are some for you to consider:
+* [Improved cooling fan](https://www.thingiverse.com/thing:2154068) - this improves print quality in bridging and overhangs.
+* [Another Fan enhancement](https://www.thingiverse.com/thing:1954001)
+* [Power Supply Cover](https://www.thingiverse.com/thing:2741239) - cover to hide high voltage wires and provide On/Off switch
+* [Cable management chain](https://www.thingiverse.com/thing:1905344)
+* [Filament Guide](https://www.thingiverse.com/thing:2047357)
+
+### 5.4 Misc
 * ANet portal for their i3 clone - [https://3dprint.wiki/reprap/anet/a8](https://3dprint.wiki/reprap/anet/a8.)
 
 
@@ -443,3 +462,36 @@ Here are some brands I've had luck with and a some not so much:
 
 
 **Z-axis**	The up and down direction relative to the print bed.
+
+
+### Appendix
+#### 20 Best Free Software List - From https://all3dp.com
+
+
+| Software |Function|Level|System
+|--|--|--|--|
+|[TinkerCAD](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#tinkercad)|3D Design, CAD|Beginner|Web Browser
+|[3D Slash](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#3d-slash)|3D Design, CAD|Beginner|PC, Mac, Linux, Web Browser
+|[Sculptris](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#sculptris)|3D Design, CAD|Beginner|PC, Mac
+|[SketchUp](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#sketchup)|3D Design, CAD|Intermediate|PC, Mac, Linux
+|[Fusion 360](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#fusion-360)|3D Design, CAD|Intermediate|PC, Mac
+|[FreeCAD](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#freecad)|3D Design, CAD|Intermediate|PC, Mac, Linux
+|[Blender](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#blender)|3D Design, CAD|Professional|PC, Mac, Linux
+|[Onshape](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#onshape)|3D Design, CAD|Professional|Web Browser
+|[Netfabb](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#netfabb)|Slicer, STL Checker, STL Repair|Intermediate|	PC, Mac, Linux
+|[3D-Tool Free Viewer](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#3d-tool-free-viewer)|STL Viewer, STL Checker	|Intermediate|PC
+|[MakePrintable](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#makeprintable)|STL Checker, STL Repair|Intermediate|Web Browser
+|[MeshLab](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#meshlab)|STL Editor, STL Repair|Professional|PC, Mac, Linux
+|[Meshmixer](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#meshmixer)|STL Checker, STL Repair, STL Editor	|Professional|PC, Mac
+|[Cura](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#cura)|Slicer, 3D Printer Host|Beginner|PC, Mac, Linux
+|[CraftWare](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#craftware)|Slicer, 3D Printer Host|Beginner|PC, Mac
+|[KISSlicer](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#kisslicer)|Slicer|Beginner|PC, Mac, Linux, Raspberry Pie
+|[MatterControl](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#mattercontrol)|Slicer, 3D Printer Host|Beginner|PC, Mac, Linux
+|[Repetier](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#repetier)|Slicer, 3D Printer Host|Intermediate|PC, Mac, Linux
+|[Slic3r](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#slic3er)|Slicer|Professional|PC, Mac, Linux
+|[OctoPrint](https://all3dp.com/1/best-free-3d-printing-software-3d-printer-program/#octoprint)|3D Printer Host|Professional|PC, Mac, Linux
+
+
+Article: [Top 20: Most Popular 3D Modeling & Design Software for 3D Printing (2017 Update)](https://i.materialise.com/blog/top-25-most-popular-3d-modeling-design-software-for-3d-printing/)
+
+Article: [Top 16 Free 3D Printer Software for Beginners in 2018](https://www.dobot.cc/resource/top-15-free-3d-printer-software-for-beginners.html)
