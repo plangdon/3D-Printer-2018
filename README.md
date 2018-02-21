@@ -38,8 +38,10 @@ Resources for building, maintaining and using your Prusa i3 clone.
 
 ## 1. Software
 
-### 1.1 For Running your Printer
 The following are a good place to start for beginners but by no means the complete list. There is a reference list [here](#appendix).
+
+### 1.1 For Running your Printer
+
 * Cura (Win/Mac) - [Get v.15.x](https://ultimaker.com/en/products/cura-software/list)
   * [Cura Setup Guide](/Configurations/Cura/Cura-SetupGuide.md)
 * Repetier (Win/Mac/Linux) - [Download](https://www.repetier.com)
@@ -57,6 +59,8 @@ The following are a good place to start for beginners but by no means the comple
 #### 1.4 CAD and Design tools for designing things to print
 ##### Online tools
 * [TinkerCad](http://www.tinkercad.com) - Free & easy
+    * TinkerCad Beginners Video -  [youtube](https://www.youtube.com/watch?v=6SuV5VoAJl0)
+    * TinkerCad Beginners Video - [Make a wrench](https://www.youtube.com/watch?v=60xfIu-lqAs)
 * AutoCAD Fusion 360 - [Free Trial](https://www.autodesk.com/products/fusion-360/overview)
 
 ##### Desktop Applications
@@ -163,8 +167,9 @@ Here are some brands I've had luck with and a some not so much:
 
 
 ### 5.2 Print Servers
-* [OctoPrint](https://octoprint.org) - Run a print server on RaspPi
-* [AstroPrint](https://www.astroprint.com/)
+Control your printer remotely over the web from your PC or Smart Phone
+* [OctoPrint](https://octoprint.org) - RaspPi Print Server
+* [AstroPrint](https://www.astroprint.com/) - RaspPi Print Server
 * [CNCjs](https://github.com/cncjs/cncjs) - G-Code runner in a browser
 * [Repetier-Server](https://www.repetier-server.com/)
 
@@ -181,6 +186,8 @@ Here are some for you to consider:
 
 ### 5.4 Misc
 * ANet portal for their i3 clone - [https://3dprint.wiki/reprap/anet/a8](https://3dprint.wiki/reprap/anet/a8.)
+
+* Deeper reading on 3D printing - [3dhubs Knowledge base articles](https://www.3dhubs.com/knowledge-base)
 
 
 ## Glossary
@@ -406,7 +413,7 @@ Here are some for you to consider:
 **SLS**	Selective Laser Sintering (SLS) uses a laser to shape and form extremely thin layers of powdered material by melting or sintering it together one layer at a time to create a solid structure.
 
 
-**STL file**	A geometry definition file that uses triangles to describe the surfaces of a 3D model.. CAD models are exported as STL files then imported into a slicer program. The slicer program then converts the file into G-code to be interpreted by the 3D printer.
+**STL file**	STL (Standard Triangle Language) - A geometry definition file that uses triangles to describe the surfaces of a 3D model.. CAD models are exported as STL files then imported into a slicer program. The slicer program then converts the file into G-code to be interpreted by the 3D printer.
 
 
 **Strain**	Measure of the deformation of the material relative to its original shape measured in mm/mm (or a dimensionless ratio).
