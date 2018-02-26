@@ -10,6 +10,7 @@ Resources for building, maintaining and using your Prusa i3 clone.
 |1.1 [For Running your Printer](#11-for-running-your-printer) |
 |1.2 [Offline Printing](#12-offline-printing) |
 |1.3 [Source for 3D Files to Print](#13-source-for-3d-files-to-print) |
+|1.3.1 [Lego](#131-lego) |
 |1.4  [CAD and Design tools](#14-cad-and-design-tools-for-designing-things-to-print) |
 |2. [Hardware](#2-hardware) |
 |2.1 [Machine Specs](#21-machine-specific-info-to-tronxy-p802dx6-model) |
@@ -55,6 +56,11 @@ The following are a good place to start for beginners but by no means the comple
 #### 1.3 Source for 3D Files to Print
 * [Thingiverse](http://www.thingiverse.com)
 * [Yeggi](http://www.yeggi.com/)
+* [MyMiniFactory](https://www.myminifactory.com)
+
+##### 1.3.1 Lego
+* Full Lego Catalog - [https://printabrick.org/](https://printabrick.org/)
+* Lego CAD - [http://ldraw.org/](http://ldraw.org/)
 
 #### 1.4 CAD and Design tools for designing things to print
 ##### Online tools
@@ -132,6 +138,12 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 ##### Calibration
 * [HowTo Calibrate, Tune and Fine Tune your printer and filament & When](https://www.3dhubs.com/talk/thread/howto-calibrate-tune-and-fine-tune-your-printer-and-filament)
 * [Advanced - Triffid Hunter's Calibration Guide](http://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide)
+
+##### Hints & Tips
+* Bed Adhesion - having trouble sticking
+1. Check your bed height and level with the paper trick
+2. Try improving adhesion with hairspray
+
 
 ### 3.4 Troubleshooting
 * [Illustrated Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
