@@ -40,6 +40,14 @@ This tutorial is based off of the 15.x version but once you undersand the basics
 
 5. After Setup you will be dropped into the application, this is the view you will see when you launch from now on. *Each entry has help if you mouse over.
 
+5a. If you planning on running your printer from your computer vs. SD card you may need to check the port and baud rate. Machine settings is accessible from the top menu.
+
+On a Mac it will look like this:
+
+![Setup 1](/Files/machine_settings.png)
+
+Port will vary but baud rate should be 115200
+
 6. There are a few settings to check on the "Basic" screen
   * Layer height - this refers to the quality of your print.
       * 0.1 is very fine/high quality - long print time
