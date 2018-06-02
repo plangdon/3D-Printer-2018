@@ -190,7 +190,7 @@ Article: [Choosing Which 3D Printing Software to Use: OctoPrint or AstroPrint?](
 One of the first things many new 3D printer owners do is print enhancements to their newly built printer.
 
 Here are some for you to consider:
-* [Improved cooling fan](https://www.thingiverse.com/thing:2154068) - this improves print quality in bridging and overhangs.
+* [Improved cooling fan](https://www.thingiverse.com/thing:2133328) - this improves print quality in bridging and overhangs.
 * [Another Fan enhancement](https://www.thingiverse.com/thing:1954001)
 * [Power Supply Cover](https://www.thingiverse.com/thing:2741239) - cover to hide high voltage wires and provide On/Off switch
 * [Cable management chain](https://www.thingiverse.com/thing:1905344)
