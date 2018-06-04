@@ -191,6 +191,10 @@ One of the first things many new 3D printer owners do is print enhancements to t
 
 Here are some for you to consider:
 * [Improved cooling fan](https://www.thingiverse.com/thing:2133328) - this improves print quality in bridging and overhangs.
+<<<<<<< HEAD
+=======
+* [Another Fan enhancement](https://www.thingiverse.com/thing:1954001)
+>>>>>>> 988a3cc615bef9b55676f011f68c00479b75ceb3
 * [Power Supply Cover](https://www.thingiverse.com/thing:2741239) - cover to hide high voltage wires and provide On/Off switch
 * [Cable management chain](https://www.thingiverse.com/thing:1905344)
 * [Filament Guide](https://www.thingiverse.com/thing:2047357)
