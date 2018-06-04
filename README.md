@@ -93,6 +93,20 @@ Prusa i3 is an open source design 3D printer. Information about the project can 
 ![TronxyP802d.jpeg](/Files/TronxyP802d-5.jpeg)
 ![TronxyP802d.jpeg](/Files/TronxyP802d-4.jpeg)
 
+### 2.1a Machine Specific info to TRONXY P802M Model
+* **Nozzle temperature:**	170-275℃
+* **Heatbed temperature:**	0-110℃
+* **Structure:**	Acrylic
+* **Power Supply:**	110V/220V 20A
+* **Print Size:**	220 x 220 x 220mm(Max)
+
+![TronxyP802m.jpeg](/Files/TronxyP802m.jpeg)
+![TronxyP802m.jpeg](/Files/TronxyP802m-1.jpeg)
+![TronxyP802m.jpeg](/Files/TronxyP802m-2.jpeg)
+![TronxyP802m.jpeg](/Files/TronxyP802m-3.jpeg)
+
+
+
 ### 2.2 Mainboard
 [Melzi v2](http://reprap.org/wiki/Melzi) is the main board of the TRONXY P8902D.
 ![Melzi v2](http://i00.i.aliimg.com/wsphoto/v0/2038875198_1/RepRap-Melzi-v2-0-3D-Printer-Controller-Board-1284P-A4988.jpg)
