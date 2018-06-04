@@ -165,8 +165,8 @@ Here are some brands I've had luck with and a some not so much:
 * Melca - [Amazon Store](https://www.amazon.com/Melca/b/ref=bl_dp_s_web_12667907011?ie=UTF8&node=12667907011&field-lbr_brands_browse-bin=Melca)
 * NinjaFlex - Premium Rubber/Flexible print material $$$
 
-**Bad Experience:**
-* Gizmo Dorks - Had a tough time getting good prints, inconsistent width.
+Here is a PLA brand I've had luck with and is only ~12 a roll:
+* [Zyltech PLA](https://www.zyltech.com/store/c22/ZYLtech_PLA.html) - 15% coupon code: UNCLEJESSY!
 
 ### 4.3 Additional Reading
 * [The Best 3D Printing Filaments of 2017](http://3dinsider.com/3d-printing-filaments/)
@@ -190,11 +190,11 @@ Article: [Choosing Which 3D Printing Software to Use: OctoPrint or AstroPrint?](
 One of the first things many new 3D printer owners do is print enhancements to their newly built printer.
 
 Here are some for you to consider:
-* [Improved cooling fan](https://www.thingiverse.com/thing:2154068) - this improves print quality in bridging and overhangs.
-* [Another Fan enhancement](https://www.thingiverse.com/thing:1954001)
+* [Improved cooling fan](https://www.thingiverse.com/thing:2133328) - this improves print quality in bridging and overhangs.
 * [Power Supply Cover](https://www.thingiverse.com/thing:2741239) - cover to hide high voltage wires and provide On/Off switch
 * [Cable management chain](https://www.thingiverse.com/thing:1905344)
 * [Filament Guide](https://www.thingiverse.com/thing:2047357)
+* [Article with all the P802 Mods in One](https://www.thingiverse.com/thing:2433351)
 
 ### 5.4 Misc
 * ANet portal for their i3 clone - [https://3dprint.wiki/reprap/anet/a8](https://3dprint.wiki/reprap/anet/a8.)
