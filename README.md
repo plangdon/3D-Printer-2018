@@ -43,7 +43,7 @@ The following are a good place to start for beginners but by no means the comple
 
 ### 1.1 For Running your Printer
 
-* Cura (Win/Mac) - [Get v.15.x](https://ultimaker.com/en/products/cura-software/list)
+* Cura (Win/Mac) - [Recommend v.15.x](https://ultimaker.com/en/products/cura-software/list)
   * [Cura Setup Guide](/Configurations/Cura/Cura-SetupGuide.md)
 * Repetier (Win/Mac/Linux) - [Download](https://www.repetier.com)
   * [Repetier Config Guide](/Files/how_to_slice.pdf)
@@ -174,6 +174,7 @@ Your printer can support most filaments that can require temperatures in the 170
 ### 4.2  Brands
 Amazon reviews are a good indicator of what is working and what may be no good.
 Here are some brands I've had luck with and a some not so much:
+* Eryone - Good quality and lots of specialty colors [Amazon Store](https://www.amazon.com/stores/node/19536993011?_encoding=UTF8&field-lbr_brands_browse-bin=ERYONE&ref_=bl_dp_s_web_19536993011)
 * Hatchbox - Premium brand +$22 per 2kg roll [Amazon Store](https://www.amazon.com/HATCHBOX/b/ref=bl_dp_s_web_14181177011?ie=UTF8&node=14181177011&field-lbr_brands_browse-bin=HATCHBOX)
 * 3D Solutech - [Amazon Store](https://www.amazon.com/3D-Solutech/b/ref=bl_dp_s_web_16009070011?ie=UTF8&node=16009070011&field-lbr_brands_browse-bin=3D+Solutech)
 * Melca - [Amazon Store](https://www.amazon.com/Melca/b/ref=bl_dp_s_web_12667907011?ie=UTF8&node=12667907011&field-lbr_brands_browse-bin=Melca)
